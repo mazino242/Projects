@@ -1,0 +1,10 @@
+B003|The Pragmatic Programmer|Andrew Hunt|Programming|false
+B001|Atomic Habit|author I don't Know|Self help|false
+B002|Sherlock Homes|author I don't Know|Mystery|false
+B004|Refactoring|Martin Fowler|Programming|false
+B005|Thinking Fast and Slow|Daniel Kahneman|Psychology|false
+B10|Book 10|Author 10|Category|false
+B11|Book 11|Author 11|Category|false
+B12|Book 12|Author 12|Category|false
+B13|Book 13|Author 13|Category|false
+B14|Book 14|Author 14|Category|false
